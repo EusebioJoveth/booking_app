@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
 import 'package:jt_reserva/utils/app_layout.dart';
 import 'package:jt_reserva/utils/app_styles.dart';
 import 'package:jt_reserva/widgets/thick_container.dart';
